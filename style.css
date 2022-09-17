@@ -1,0 +1,8 @@
+.card-body {
+    text-align: center;
+}
+img {
+    min-height: 250px;
+    max-height: 250px;
+    object-fit: cover;
+}
